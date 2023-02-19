@@ -1,2 +1,2 @@
-# firstrepository
+# learningrepository
 ##editing the file
